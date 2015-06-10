@@ -1,0 +1,7 @@
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\bin\Debug\NKiss.Socket.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\bin\Debug\NKiss.Socket.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\bin\Debug\NKiss.Common.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\bin\Debug\NKiss.Common.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\obj\Debug\NKiss.Socket.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Socket\obj\Debug\NKiss.Socket.pdb

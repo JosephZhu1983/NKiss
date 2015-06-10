@@ -1,0 +1,14 @@
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.TestServerConsole.exe.config
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.TestServerConsole.exe
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.TestServerConsole.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.TestContract.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Socket.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Common.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.TestContract.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Rpc.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Socket.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\bin\Debug\NKiss.Common.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\obj\x86\Debug\NKiss.Rpc.TestServerConsole.exe
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestServerConsole\obj\x86\Debug\NKiss.Rpc.TestServerConsole.pdb

@@ -1,0 +1,9 @@
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\bin\Debug\NKiss.Rpc.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\bin\Debug\NKiss.Rpc.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\bin\Debug\NKiss.Common.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\bin\Debug\NKiss.Socket.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\bin\Debug\NKiss.Common.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\bin\Debug\NKiss.Socket.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\obj\Debug\NKiss.Rpc.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc\obj\Debug\NKiss.Rpc.pdb

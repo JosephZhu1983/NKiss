@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{80EF0558-8F08-4309-85A0-6A6F67B809B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NKiss.Socket</RootNamespace>
+    <AssemblyName>NKiss.Socket</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\AbstractClient.cs" />
+    <Compile Include="Client\ClientCluster.cs" />
+    <Compile Include="Client\ClientClusterConfiguration.cs" />
+    <Compile Include="Client\ClientNode.cs" />
+    <Compile Include="Client\ClientNodeConfiguration.cs" />
+    <Compile Include="Client\ClientNodeLocator.cs" />
+    <Compile Include="Client\ClientNodeState.cs" />
+    <Compile Include="Client\ClientSocket.cs" />
+    <Compile Include="Client\ClientConfiguration.cs" />
+    <Compile Include="Client\ClientClusterState.cs" />
+    <Compile Include="Server\BufferManager.cs" />
+    <Compile Include="Server\ServerDataHandler.cs" />
+    <Compile Include="Server\OperationUserToken.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Server\AsyncSocketServer.cs" />
+    <Compile Include="Server\AsyncSocketServerConfiguration.cs" />
+    <Compile Include="Server\AsyncSocketServerState.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NKiss.Common\NKiss.Common.csproj">
+      <Project>{D72F15CC-F3B1-4938-9741-7F2F12974FC8}</Project>
+      <Name>NKiss.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

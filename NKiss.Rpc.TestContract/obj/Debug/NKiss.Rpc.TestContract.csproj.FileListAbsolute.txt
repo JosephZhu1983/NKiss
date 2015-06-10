@@ -1,0 +1,5 @@
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestContract\bin\Debug\NKiss.Rpc.TestContract.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestContract\bin\Debug\NKiss.Rpc.TestContract.pdb
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestContract\obj\Debug\NKiss.Rpc.TestContract.dll
+C:\Users\0425\Desktop\NKiss\NKiss.Rpc.TestContract\obj\Debug\NKiss.Rpc.TestContract.pdb
